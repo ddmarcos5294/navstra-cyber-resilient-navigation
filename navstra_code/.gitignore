@@ -1,0 +1,12 @@
+# Firmware
+firmware/.pio/
+firmware/include/secrets.h
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+navstra_telemetry.db
+
+# OS
+.DS_Store

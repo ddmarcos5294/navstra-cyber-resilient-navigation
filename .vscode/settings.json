@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "c:\\Users\\Lenovo\\.vscode\\extensions\\ms-security.ms-sentinel-2.3.0\\python",
+        "c:\\Users\\Lenovo\\.vscode\\extensions\\ms-security.ms-sentinel-2.4.0\\python"
+    ],
+    "python-envs.defaultEnvManager": "ms-python.python:system"
+}
